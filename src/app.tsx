@@ -1,5 +1,7 @@
 export function App() {
   return (
-    <h1 className="bg-slate-300 font-semibold">PROJETO SA</h1>
+    <header className="bg-azul h-1/4 max-h-44 min-h-28 flex justify-center">
+      <h1 className="text-4xl">SENAI</h1>
+    </header>
   )
 }
