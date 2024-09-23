@@ -7,8 +7,13 @@ export default {
   theme: {
     extend: {
       colors: {
-        'azul': '#006BB7',
-      }
+        azul: { 
+          500: '#338FCC',
+          600: '#006BB7',
+          700: '#005A97',
+          800: '#004677',
+        }
+      }  
     },
   },
   plugins: [],
